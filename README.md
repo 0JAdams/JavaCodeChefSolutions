@@ -7,25 +7,24 @@ My experience with the challenges was that they ranged from trivial to bang-my-h
 
 List of problems:
  
--  **[INTEST - Enormous Input Test](https://www.codechef.com/problems/INTEST)**
--  **[KPRIME - Count K-Primes](https://www.codechef.com/problems/KPRIME)**
--  **[FROGV - Chef and Frogs](https://www.codechef.com/problems/FROGV)**
--  **[MISINTER - Misinterpretation](https://www.codechef.com/problems/MISINTER)**
--  **[PPTEST - Polo the Penguin and the Test](https://www.codechef.com/problems/PPTEST)**
--  **[MAXCOMP - Event Organizer](https://www.codechef.com/problems/MAXCOMP)**
--  **[MARCHA1 - Paying Up](https://www.codechef.com/problems/MARCHA1)**
--  **[E1 - The White Knight](https://www.codechef.com/problems/E1)**
--  **[PERMSUFF - Permutation Shuffle](https://www.codechef.com/problems/PERMSUFF)**
--  **[GERALD03 - Chef Goes Through Segments](https://www.codechef.com/problems/GERALD03)**
--  **[MGCRNK - Magic Rankings](https://www.codechef.com/problems/MGCRNK)**
--  **[FCBARCA - Barelona Gameplay Tactics](https://www.codechef.com/problems/FCBARCA)**
 -  **[DELISH - Dessert Wizard](https://www.codechef.com/problems/DELISH)**
--  **[KINGSHIP - Chef and Kingship](https://www.codechef.com/problems/KINGSHIP)**
--  **[FIRESC - Fire Escape Routes](https://www.codechef.com/problems/FIRESC)**
--  **[DISHOWN - Dish Owner](https://www.codechef.com/problems/DISHOWN)**
--  **[HDELIVER - Home Delivery](https://www.codechef.com/problems/HDELIVER)**
 -  **[DIGJUMP - Chef and Digit Jumps](https://www.codechef.com/problems/DIGJUMP)**
+-  **[DISHOWN - Dish Owner](https://www.codechef.com/problems/DISHOWN)**
+-  **[E1 - The White Knight](https://www.codechef.com/problems/E1)**
+-  **[FCBARCA - Barelona Gameplay Tactics](https://www.codechef.com/problems/FCBARCA)**
+-  **[FIRESC - Fire Escape Routes](https://www.codechef.com/problems/FIRESC)**
+-  **[FROGV - Chef and Frogs](https://www.codechef.com/problems/FROGV)**
+-  **[GERALD03 - Chef Goes Through Segments](https://www.codechef.com/problems/GERALD03)**
+-  **[HDELIVER - Home Delivery](https://www.codechef.com/problems/HDELIVER)**
+-  **[INTEST - Enormous Input Test](https://www.codechef.com/problems/INTEST)**
 -  **[KINGCON - Kingdom Unity](https://www.codechef.com/problems/KINGCON)**
+-  **[KINGSHIP - Chef and Kingship](https://www.codechef.com/problems/KINGSHIP)**
+-  **[KPRIME - Count K-Primes](https://www.codechef.com/problems/KPRIME)**
 -  **[LPAIR - Chef and Reunion](https://www.codechef.com/problems/LPAIR)**
+-  **[MARCHA1 - Paying Up](https://www.codechef.com/problems/MARCHA1)**
+-  **[MAXCOMP - Event Organizer](https://www.codechef.com/problems/MAXCOMP)**
+-  **[MGCRNK - Magic Rankings](https://www.codechef.com/problems/MGCRNK)**
+-  **[MISINTER - Misinterpretation](https://www.codechef.com/problems/MISINTER)**
+-  **[PERMSUFF - Permutation Shuffle](https://www.codechef.com/problems/PERMSUFF)**
+-  **[PPTEST - Polo the Penguin and the Test](https://www.codechef.com/problems/PPTEST)**
 -  **[SPREAD - Gravel](https://www.codechef.com/problems/SPREAD)**
-	
